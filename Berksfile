@@ -1,2 +1,1 @@
 cookbook 'java'
-cookbook 'elasticsearch'
