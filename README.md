@@ -33,8 +33,13 @@ Install it.
     vagrant plugin install vagrant-berkshelf
 ```
 
+## TODO
+
+Refactor add a server generator like https://github.com/matthewbogner/vagrant-elasticsearch-puppet/blob/master/Vagrantfile
+
 ## References
 
 1. http://misheska.com/blog/2013/06/16/getting-started-writing-chef-cookbooks-the-berkshelf-way/
 2. http://www.opscode.com/blog/chefconf-talks/the-berkshelf-way-jamie-winsor/
 3. http://red-badger.com/blog/2013/06/24/berkshelf-application-cookbooks/
+4. https://github.com/matthewbogner/vagrant-elasticsearch-puppet/blob/master/Vagrantfile
