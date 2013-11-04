@@ -1,12 +1,25 @@
 Elasticsearch Two Nodes Setup with Vagrant
 ==============================
 
+## Vagrant
+
+Install it. 
+
+
 ## [Berkshelf](http://berkshelf.com/)
 
 Install it.
 
 ```sh
     gem install berkshelf
+```
+
+```sh
+    vagrant plugin list
+```
+
+```sh
+    vagrant plugin install vagrant-berkshelf
 ```
 
 ### References
