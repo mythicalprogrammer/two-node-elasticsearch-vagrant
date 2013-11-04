@@ -1,2 +1,4 @@
-two-node-elasticsearch-vagrant
+Elasticsearch Two Nodes Setup with Vagrant
 ==============================
+
+
