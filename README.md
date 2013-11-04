@@ -9,3 +9,5 @@ Install it.
     gem install berkshelf
 ```
 
+### References
+    http://www.opscode.com/blog/chefconf-talks/the-berkshelf-way-jamie-winsor/
