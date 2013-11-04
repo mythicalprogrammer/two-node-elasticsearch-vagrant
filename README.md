@@ -1,0 +1,2 @@
+two-node-elasticsearch-vagrant
+==============================
