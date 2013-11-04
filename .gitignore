@@ -1,0 +1,5 @@
+Berksfile.lock
+*.swp
+*.swap
+*.tmp
+*.bak
